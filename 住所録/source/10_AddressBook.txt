@@ -1,0 +1,12 @@
+1	R	K	045-100-1001	r@
+2	Mei Nagano	Nagasakiken Nagasakishi	9999	Mei@fukuoka.co.jp
+3	Makkenyu Arata	Kyotofu Kyotoshi	33431003	Makkenyu@tokyo.co.jp
+4	Suzu Hirose	Shizuokaken Shizuokashi	054-200-1002	suzu@shizuoka.co.jp
+5	Takumi Kitamura	ToKyoto Minatoku	03-343-1004	takumi@tokyo.co.jp
+6	Ayami Nakajo	Osakafu Oskakashi	06-200-1003	ayami@osaka.co.jp
+7	Taishi Nakagawa	Tokkyoto Chiyodaku	03-343-1005	taishi@tokyo.co.jp
+8	NaNa Komatsu	Yamanashi Yamanashishi	0553-200-1005	nana@yamanahi.co.jp
+9	Kentaro Ito	Tokyoto Sumidaku	0570-100-1006	kentaro@tokyo.co.jp
+10	Yuina Kuroshima	Okinawaken Itomanshi	098-200-1006	yuina@okinawa.co.jp
+11	saiki	ehime	000-0000-0000	saiki.shono.01@gmail.com
+12	saiki shono	ehime saijo	000-0000-0000	shono131103@gmail.com
